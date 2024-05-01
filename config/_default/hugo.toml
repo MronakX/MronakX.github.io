@@ -11,9 +11,10 @@ defaultContentLanguage = "en"
 enableRobotsTXT = true
 paginate = 10
 summaryLength = 0
-
+smartTOC = true
 buildDrafts = false
 buildFuture = false
+hasCJKLanguage = true
 
 # googleAnalytics = "G-XXXXXXXXX"
 
