@@ -16,7 +16,7 @@ buildDrafts = false
 buildFuture = false
 hasCJKLanguage = true
 
-# googleAnalytics = "G-XXXXXXXXX"
+googleAnalytics = "G-VF7JN3P4BX"
 
 [imaging]
   anchor = 'Center'
