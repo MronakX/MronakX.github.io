@@ -1,8 +1,14 @@
 ---
 title: "MroNak's Homepage"
-description: "This page was built using the Blowfish theme for Hugo."
+description: "Dawei Guo Homepage"
 ---
 
-人生は、忘れることによって、生きやすくなる。
+### Welcome, have fun :)
+
+
+**人生は、忘れることによって、生きやすくなる。**
+
+#### [**Wanna see the full playlist?**](/misc)
 
 {{< randomSpotify >}}
+
