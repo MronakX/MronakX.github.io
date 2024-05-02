@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>旅游 on MroNak&#39;s Website</title>
+    <link>http://localhost:1313/tags/%E6%97%85%E6%B8%B8/</link>
+    <description>Recent content in 旅游 on MroNak&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+    <lastBuildDate>Sat, 27 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/%E6%97%85%E6%B8%B8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post-COVID International Trip to Japan (Tokyo &amp; Hokkaido)</title>
+      <link>http://localhost:1313/posts/japan-trip-202308/</link>
+      <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/japan-trip-202308/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/japan-trip-202308/feature.jpeg" />
+    </item>
+    
+  </channel>
+</rss>
